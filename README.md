@@ -1,11 +1,13 @@
 # dis-2025
-In this repository there is material for the Snowflake workshop at Data Innovation Summit 2025
+In this repository there is material for the Snowflake workshop at Data Innovation Summit 2025.
+
+Warm welcome!
 
 ## Get Started
 If you don't have a Snowflake account, register for a free Snowflake Trial Account:
 - [Free Snowflake Trial Account](https://signup.snowflake.com/)
-- Please use Enterprise Edition
-- Please use AWS in Oregon
+- Please use **Enterprise Edition**
+- Please use **AWS in US West (Oregon)**
 
 Integrate this Github Repository with Snowflake by running the following SQL code in a Snowflake Worksheet:
 ```sql

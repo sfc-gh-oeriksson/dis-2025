@@ -4,9 +4,8 @@ In this repository there is material for the Snowflake workshop at Data Innovati
 ## Get Started
 If you don't have a Snowflake account, register for a free Snowflake Trial Account:
 - [Free Snowflake Trial Account](https://signup.snowflake.com/)
-
-> [!IMPORTANT]
-> Some features like the Feature Store require Snowflake Enterprise Edition or higher. Availability of specific Cortex LLM models can be found [here](https://docs.snowflake.com/en/user-guide/snowflake-cortex/llm-functions#availability).
+- Please use Enterprise Edition
+- Please use AWS in Oregon
 
 Integrate this Github Repository with Snowflake by running the following SQL code in a Snowflake Worksheet:
 ```sql
